@@ -1,4 +1,4 @@
-![MasterHead](https://images3.alphacoders.com/133/1338701.png)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*X7Q84nkQN1DiFXC-rQLt9g.gif)
 <h1 align="center">Hi, I'm Dinith</h1>
 <h3 align="center">Software Engineering Student</h3>
 
