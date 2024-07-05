@@ -1,4 +1,4 @@
-![MasterHead]([https://miro.medium.com/v2/resize:fit:1400/1*X7Q84nkQN1DiFXC-rQLt9g.gif](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/change_syntax.gif))
+[![MasterHead](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/change_syntax.gif)]
 <h1 align="center">Hi, I'm Dinith</h1>
 <h3 align="center">Software Engineering Student</h3>
 
