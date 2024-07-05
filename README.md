@@ -1,4 +1,4 @@
-[![MasterHead](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/change_syntax.gif)width="500" height="300"]
+<img src="https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/change_syntax.gif" alt="MasterHead" width="700" height="500"/>
 <h1 align="center">Hi, I'm Dinith</h1>
 <h3 align="center">Software Engineering Student</h3>
 
