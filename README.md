@@ -1,10 +1,7 @@
 <img src="https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/change_syntax.gif" alt="MasterHead" width="700" height="500"/>
-<h1 align="center">Hi, I'm Dinith</h1>
-<h3 align="center">Software Engineering Student</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinitheth&label=Profile%20views&color=0e75b6&style=flat" alt="dinitheth" /> </p>
-
-- 🌱 I’m currently learning **Software Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
