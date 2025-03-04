@@ -1,5 +1,3 @@
-<img src="https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/change_syntax.gif" alt="MasterHead" width="700" height="500"/>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinitheth&label=Profile%20views&color=0e75b6&style=flat" alt="dinitheth" /> </p>
 
