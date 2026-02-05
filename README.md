@@ -3,7 +3,6 @@
 
 <h2 align="left">Hi 👋, I'm Dinith</h2>
 
-💻 Software Developer  
 🧱 Interested in building real-world applications  
 🌱 Learning by building, not just tutorials  
 ⚡ Focused on practical skills and clean implementation
